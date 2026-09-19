@@ -1,0 +1,25 @@
+# Profile: Pheng Mengheak (HeakMeng)
+
+## Introduction
+I am Pheng Mengheak, a passionate Backend Developer and Local AI Enthusiast based in Phnom Penh, Cambodia. I focus on building scalable backend architectures, secure APIs, and practical AI-powered systems that bridge traditional software engineering with modern intelligent agents.
+
+## Education & Training
+- SETEC Institute: Studying Management Information Systems (MIS)
+- Korea Software HRD Center (KSHRD): Advanced Course in Software Development and AI Transformation (AX)
+
+## Technical Stack & Core Competencies
+- Backend Engineering: Java, Spring Boot, Spring Cloud, Python, FastAPI, Node.js
+- AI & Agentic Systems: Ollama, Local LLMs, RAG (Retrieval-Augmented Generation), LangChain, LangGraph, ChromaDB
+- Databases: PostgreSQL, MongoDB, Vector Databases
+- Frontend: Next.js, React, TypeScript, Tailwind CSS
+- DevOps & Tools: Docker, Linux, Git, REST APIs, OAuth 2.0, JWT, Keycloak
+
+## Current Focus & Projects
+- Developing autonomous agent workflows and CLI tools (such as mini-claude-code) using function calling and tool execution.
+- Implementing local RAG platforms (Cortex) to enable private document-question-answering with local LLMs.
+- Designing distributed systems and microservices with clean code principles.
+
+## Connect
+- GitHub: https://github.com/HeakMeng
+- Portfolio / Website: https://pmengheak.vercel.app/ | https://phengmengheak.site
+- Location: Phnom Penh, Cambodia

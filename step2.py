@@ -1,6 +1,7 @@
 import os
 from openai import OpenAI
 from dotenv import load_dotenv
+from config import MODEL_LLM
 
 load_dotenv()
 
@@ -17,7 +18,7 @@ while True:
     messages.append({"role":"user","content": user_input})
 
     response = client.chat.completions.create(
-        model="openai/gpt-oss-120b",
+        model= MODEL_LLM,
         messages=messages
     )
     
